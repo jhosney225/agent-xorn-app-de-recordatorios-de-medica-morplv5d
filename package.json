@@ -1,0 +1,6 @@
+{
+  "name": "agent-xorn-app-de-recordatorios-de-medica-morplv5d",
+  "version": "1.0.0",
+  "description": "Proyecto de Xorn [Gen15]: app de recordatorios de medicamentos con alertas",
+  "main": "index.js"
+}
